@@ -3,3 +3,6 @@ The lava texture tiling was added to enhance the effect that the scene is above 
 
 Nedviga, A. (n.d.). Lava Texture stock video footage for free download. Vecteezy. https://www.vecteezy.com/free-videos/lava-texture
 <img width="622" height="350" alt="lava-animation-fiery-surface-texture-hot-melted-liquid-lava-fire-4k-video" src="https://github.com/user-attachments/assets/5a505600-882a-43cd-8ac7-f8dd2ad5b850" />
+
+Ground texture Images - Free Download on Magnific (formerly Freepik). (n.d.). Magnific. https://www.magnific.com/free-photos-vectors/ground-texture
+<img width="740" height="494" alt="photo-ground-texture-pattern_58702-13449" src="https://github.com/user-attachments/assets/b2209f85-e311-4f39-8cad-f58091bc3a0b" />

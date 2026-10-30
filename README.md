@@ -9,3 +9,10 @@ Adding the multiple UV textures was much easier to implement and resulted in a p
 
 Ground texture Images - Free Download on Magnific (formerly Freepik). (n.d.). Magnific. https://www.magnific.com/free-photos-vectors/ground-texture
 <img width="740" height="494" alt="photo-ground-texture-pattern_58702-13449" src="https://github.com/user-attachments/assets/b2209f85-e311-4f39-8cad-f58091bc3a0b" />
+
+Added a sky box so the area looks cleaner and more polished. Was easy to make and provides better immersion within the space.
+Baljkas, S. (n.d.). 1,932 Blood Red Sky Stock Photos and High-Res Images - Getty Images. https://www.gettyimages.ca/search/2/image?phrase=blood+red+sky&tracked_gsrp_landing=https%3A%2F%2Fwww.gettyimages.ca%2Fphotos%2Fblood-red-sky
+<img width="612" height="408" alt="dramatic-red-sky-with-scattered-birds-at-dusk" src="https://github.com/user-attachments/assets/b0d1fce8-79a0-44a2-ab40-379fd6d0b84b" />
+
+I added an additional shader at the end of the path to indicate the end of the level. This shader appears to show where the monsters are coming from and where you have to get absorbed by the warp gate to travel to the next level. This shader was simple to make with the issue of having to tweak one setting. I made this by having a UV, time and noise plugged into rotate and twirl to sell the look of it being a worm hole. Overall I think this enhances the gameplay of where the monsters originate from and improves on the original game's effects of the hell like theme.
+<img width="660" height="335" alt="image" src="https://github.com/user-attachments/assets/7d69fe4e-0ca8-4e97-9a06-70ccfa1ffc36" />
